@@ -1,0 +1,25 @@
+# Dependências
+node_modules/
+
+# Builds e instalador
+dist/
+dist-electron/
+release/
+
+# Artefatos locais de teste e capturas
+.shots/
+.shots-*/
+.shots*
+.tmp/
+.tmp-*
+*.log
+
+# Banco de dados e backups locais
+*.sqlite
+*.sqlite.tmp
+*.corrupt-*
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
