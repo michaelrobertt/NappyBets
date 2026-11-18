@@ -4,6 +4,26 @@ Aplicativo desktop para Windows 10/11 criado para registrar previsões esportiva
 
 O Nappy Bets **não executa apostas**, não movimenta dinheiro real e não se conecta a contas de casas de apostas. Tudo fica em um banco SQLite local.
 
+## Capturas de tela
+
+| Visão geral | Banca e evolução do saldo |
+| --- | --- |
+| ![Visão geral](docs/screenshots/dashboard.png) | ![Banca](docs/screenshots/banca.png) |
+
+| Histórico de previsões | Nova previsão com stake e odds |
+| --- | --- |
+| ![Histórico](docs/screenshots/historico.png) | ![Nova previsão](docs/screenshots/nova-previsao.png) |
+
+## Instalação
+
+1. Abra a página de [Releases](https://github.com/michaelrobertt/NappyBets/releases/latest).
+2. Baixe `NappyBets-Setup-1.0.0.exe`.
+3. Execute o instalador e siga as instruções.
+
+Requisitos: **Windows 10/11 x64**.
+
+O build é distribuído sem certificado comercial de assinatura. Por isso, o Windows SmartScreen pode exibir um aviso na primeira execução; use **Mais informações → Executar assim mesmo** somente se você baixou o arquivo deste repositório.
+
 ## Recursos
 
 - Registro de previsões com modalidade, competição, time/jogador, evento, mercado, resultado previsto e probabilidade estimada.
